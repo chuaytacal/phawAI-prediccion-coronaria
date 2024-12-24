@@ -62,10 +62,7 @@ El modelo logró un **F1-Score en validación de 0.9575** con el umbral de 0.2, 
 - `prueba.py`: Script principal para preprocesar los datos, entrenar el modelo y generar las predicciones.
 - `requirements.txt`: Lista de dependencias necesarias.
 - `README.md`: Documentación del proyecto.
-- `resultados_test_combinado.csv` (opcional): Archivo de predicciones generado por el modelo.
-- `train.csv`: Conjunto de datos de entrenamiento, utilizado para ajustar y entrenar los modelos.
-- `test_public`: Conjunto de datos de prueba con etiquetas, para realizar evaluaciones preliminares del modelo.
-- `test_private`: Conjunto de datos de prueba sin etiquetas, destinado a la evaluación final del modelo.
+- `resultados_test_combinado.csv`: Archivo de predicciones generado por el modelo.
 
 ---
 
